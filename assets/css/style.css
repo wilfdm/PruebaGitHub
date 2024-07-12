@@ -1,0 +1,69 @@
+.logo-nav {
+    width: 5%;
+}
+
+.body {
+    background-color: black;
+}
+
+.custom-hr {
+    border: 0;
+    height: 1px;
+    background: rgb(129, 129, 129);
+    opacity: 10;
+}
+
+
+.icon {
+    background-color: rgb(103, 174, 202);
+    color: white;
+    width: 100%;
+    padding: 2px;
+
+}
+
+.texto-mio {
+    text-align: left;
+    color: white;
+
+}
+
+.card-body {
+    text-align: left;
+    background-color: aqua;
+}
+
+.card-title {
+    font-size: 17px;
+    color: white;
+}
+
+.card-text {
+    font-size: 14px;
+
+}
+
+.footer {
+    background-color: aqua;
+    height: 50px;
+    font-size: 20px;
+}
+
+.redesIconos {
+    display: flex;
+    justify-content: right;
+}
+
+.redesIconos a {
+    padding-left: 5px;
+    text-decoration: none;
+    background-color: aqua;
+    color: white;
+}
+
+.logoFooter {
+    color: white;
+    font-size: 17px;
+
+}
+
